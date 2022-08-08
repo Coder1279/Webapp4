@@ -1,0 +1,19 @@
+#btn 
+{
+   background-color: antiquewhite;
+   width: 1000px;
+}
+body{
+    background-color:rgb(227, 210, 185);
+ }
+ #msg
+ {
+    background-color: antiquewhite;
+    font-family: monospace;
+ }
+ #St
+{
+   height: 150px;
+   width:150px;
+   border-radius: 50%;
+}
